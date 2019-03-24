@@ -1,1 +1,2 @@
-# Coursera_Capstone
+# Cluster neighborhoods in Toronto
+![Screenshot](Result-on-map)
