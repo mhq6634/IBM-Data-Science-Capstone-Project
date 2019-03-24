@@ -1,2 +1,2 @@
 # Cluster neighborhoods in Toronto
-![Screenshot](Result-on-map)
+![Screenshot](Result-on-map.png)
